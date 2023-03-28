@@ -1,0 +1,28 @@
+body {
+    padding: 1rem;
+    margin: 1rem;
+}
+
+.photo {
+    display: block;
+    margin: auto;
+    max-width: 100%;
+    height: auto;
+    margin: 1rem;
+}
+  
+.music {
+    display: block;
+    margin: auto;
+    max-width: 100%;
+    margin: 1rem;
+}
+  
+.text {
+    text-align: justify;
+    margin: auto;
+    max-width: 100%;
+    margin: 1rem;
+    font-family: 'Hanken Grotesk', sans-serif;
+}
+  
